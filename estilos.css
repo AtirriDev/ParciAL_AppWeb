@@ -1,0 +1,24 @@
+
+
+.container{
+    background-color: blueviolet;
+    text-align: center;
+    height: 100vh;
+}
+h1{
+    color:white;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+
+#form{
+    background-color:  blueviolet;
+    border: none;
+    margin-bottom: 5px;
+}
+
+#txtTarea{
+    margin-bottom: 5px;
+}
+
+
